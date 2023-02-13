@@ -8,4 +8,8 @@ privsub3id: subnet-0293db764b3b25fe5
 igwid: igw-0ad7cdd7d7685d9dc
 pubRTid: rtb-0475bafeba486dfd2
 NATGWid: nat-0a146d349454b1299
+<<<<<<< HEAD
 privRTid: rtb-0a766e11ba7a65249
+=======
+privRTid: rtb-0a766e11ba7a65249
+>>>>>>> 3dd1b9e (bastion)
